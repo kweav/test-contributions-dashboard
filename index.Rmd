@@ -1,0 +1,32 @@
+---
+title: "**metricminer**"
+output:
+  html_document
+---
+
+<img src = "resources/images/metricminer-gnome.png" width = 200>
+
+## Welcome to the metricminer dashboard template!
+
+This template allows you to display metrics from metricminer without having to start a website from scratch!
+
+The [getting started page](./getting_started.html) will walk you through the steps but after initial set up what you do to customize your metricminer dashboard will be up to you and what metrics you are look to collect and display. For example, you will see on this template website we have metrics included from a variety of sources: Google Analytics, GitHub, etc. But it is likely that you don't have or won't want to collect data from ALL of the possible sources `metricminer` can collect from.
+
+In our guide we will point you to what files you'll need to edit to customize this dashboard to work for you!
+
+Please email `itcrtrainingnetwork@gmail.com` with any questions or concerns with this template dashboard or [file a GitHub issue](https://github.com/fhdsl/metricminer-dashboard/issues).
+
+---
+This work is funded by NCI UE5CA254170 as a part of the [ITCR Training Network](https://www.itcrtraining.org/)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-951TGMSPH7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-951TGMSPH7');
+</script>
+
+[See privacy policy](https://www.metricminer.org/privacypolicy.html)
