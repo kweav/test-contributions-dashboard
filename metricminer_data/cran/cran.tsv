@@ -742,6 +742,12 @@ date	count	package
 2026-02-25	12	metricminer
 2026-02-26	7	metricminer
 2026-02-27	67	metricminer
+2026-02-28	3	metricminer
+2026-03-01	4	metricminer
+2026-03-02	55	metricminer
+2026-03-03	4	metricminer
+2026-03-04	3	metricminer
+2026-03-05	53	metricminer
 2022-02-28	1	ottrpal
 2022-03-01	23	ottrpal
 2022-03-02	8	ottrpal
@@ -2188,3 +2194,9 @@ date	count	package
 2026-02-25	19	ottrpal
 2026-02-26	5	ottrpal
 2026-02-27	65	ottrpal
+2026-02-28	6	ottrpal
+2026-03-01	5	ottrpal
+2026-03-02	60	ottrpal
+2026-03-03	5	ottrpal
+2026-03-04	5	ottrpal
+2026-03-05	60	ottrpal
